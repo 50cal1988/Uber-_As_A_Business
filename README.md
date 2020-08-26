@@ -9,8 +9,8 @@
   There are many car expenses but let us start with the main one, ye old tank fill-ups. How gas efficient is your vehicle? If you are driving Uber as a serious business, you need the most fuel efficient you can find because gas Is the second most expensive cost after car purchase. Or maybe you want to use an electric vehicle; charging it is still an expense. Every gas fill-up/battery charge will be an important event because the Driver will be recording various pieces of information.
 
 **Tank fill-ups:**
-- Vehicle odometer *(required)
-- Gallons of gasoline *(required)
+- Vehicle odometer * (required)
+- Gallons of gasoline *(required)*
 - Price per gallon *(required)
 - Total cost *(optional)
 - Date/Time of event *(required)
