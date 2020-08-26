@@ -1,8 +1,8 @@
-Student: Jose Reyes
+#Jose Reyes
 
 Date: 08/22/2020
 
-**Uber Driver as a Business**
+##**Uber Driver as a Business**
 
   In the era of Information Technology, the phrase, &quot;to take an Uber,&quot; has replaced the phrase, &quot;to take a cab.&quot; Uber has undoubtedly displaced the taxi industry, but the company didn&#39;t do it alone. If every Uber Driver were to quit right now, the company would immediately collapse, or at least until autonomous vehicle technology came along. Here are some interesting facts from muchneeded.com: Uber has 75 million riders and 3 million drivers globally, Uber net annual revenue in Q2 2018 was $2.7 billion and an Uber Driver earns an average income of about $364/month.
 
@@ -44,7 +44,6 @@ Date: 08/22/2020
 - Odometer, Date, and Time started driving (required)
 - Odometer, Date, and Time stopped driving (required)
 
-There will be a table to enter and display income. (Display total monthly income)
 **Income per day:** (Date and Total of Transaction)
 - Rides Income
 - Electronic Tips
