@@ -55,3 +55,14 @@
 **Health Benefits as a monthly expense:**
 - Healthcare Insurance
 - Dental Insurance
+
+**Monthly Expenses:** *Date and Amount*
+* Maintenance and repairs       
+- Lease payments                
+- Depreciation
+- Car Washes
+- Miscellaneous Expenses
+- Business-related parking fees
+- Car Insurance
+- Vehicle registration fees
+- Cell Phone bill
