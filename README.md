@@ -18,8 +18,7 @@
 
 **Battery charge:**
 - Vehicle odometer *(required)*
-- Electricity rate *(required)*
-- Duration of charging *(required)*
+- Electricity rate X Duration of charging *(required)*
 - Date/Time of event *(required) (the moment the car stopped charging)*
 
 
