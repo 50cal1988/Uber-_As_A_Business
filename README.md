@@ -22,7 +22,7 @@
 - Duration of charging *(required)*
 - Date/Time of event *(required) (the moment the car stopped charging)*
 
-**Monthly Expenses:**
+**Monthly Expenses:** *Date and Amount*
 - Maintenance and repairs
 - Car Insurance
 - Vehicle registration fees
