@@ -24,8 +24,7 @@ Date: 08/22/2020
 - Duration of charging (required)
 - Date/Time of event (required) (the moment the car stopped charging)
 
-All vehicle expenses will be recorded by the driver and will be tallied into monthly tables.
-**Expenses:** 
+**Monthly Expenses:** 
 (Date of expense paid; total amount paid)
 - Maintenance and repairs, including tire and oil changes.
 - Car Insurance
