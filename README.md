@@ -27,6 +27,11 @@
 - Car Insurance
 - Vehicle registration fees
 - Cell Phone bill
+- Lease payments
+- Depreciation
+- Car Washes
+- Business-related parking fees
+- Miscellaneous Expenses
 
 **Monthly Expenses:** *(Date of expense paid; total amount paid)*
 - Maintenance and repairs, including tire and oil changes.
