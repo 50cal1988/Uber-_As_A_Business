@@ -23,15 +23,16 @@
 - Date/Time of event *(required) (the moment the car stopped charging)*
 
 **Monthly Expenses:** *Date and Amount*
-- Maintenance and repairs
+- Maintenance and repairs       - Business-related parking fees
+- Lease payments                - Miscellaneous Expenses
+- Depreciation
+- Car Washes
+
+
 - Car Insurance
 - Vehicle registration fees
 - Cell Phone bill
-- Lease payments
-- Depreciation
-- Car Washes
-- Business-related parking fees
-- Miscellaneous Expenses
+
 
 
 
