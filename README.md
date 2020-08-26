@@ -33,18 +33,6 @@
 - Business-related parking fees
 - Miscellaneous Expenses
 
-**Monthly Expenses:** *(Date of expense paid; total amount paid)*
-- Maintenance and repairs, including tire and oil changes.
-- Car Insurance
-- Vehicle registration fees
-- Cell phone bill
-- Lease payments
-- Depreciation
-- Car washes
-- Business-related parking fees
-- Tolls, if not paid by the passenger
-- Miscellaneous Expenses
-
   Uber records the miles and the duration of transporting passengers. What Uber does not record is the distance and time the Driver spends looking for passengers. Uber also does not record the distance traveled to the pickup location and time spent from the moment the Driver accepts the passenger. The meter does not start running until the passenger enters the car. The unrecorded information is also important because it is an expense and man-hours. Man-hours is the most important factor, yet it not considered by Uber nor the IRS. You can earn so much money but how much work does it take?
 
 **Distance and Time:**
