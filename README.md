@@ -22,16 +22,6 @@
 - Duration of charging *(required)*
 - Date/Time of event *(required) (the moment the car stopped charging)*
 
-**Monthly Expenses:** *Date and Amount*
-* Maintenance and repairs       
-- Lease payments                
-- Depreciation
-- Car Washes
-- Miscellaneous Expenses
-- Business-related parking fees
-- Car Insurance
-- Vehicle registration fees
-- Cell Phone bill
 
   Uber records the miles and the duration of transporting passengers. What Uber does not record is the distance and time the Driver spends looking for passengers. Uber also does not record the distance traveled to the pickup location and time spent from the moment the Driver accepts the passenger. The meter does not start running until the passenger enters the car. The unrecorded information is also important because it is an expense and man-hours. Man-hours is the most important factor, yet it not considered by Uber nor the IRS. You can earn so much money but how much work does it take?
 
@@ -57,7 +47,7 @@
 - Dental Insurance
 
 **Monthly Expenses:** *Date and Amount*
-* Maintenance and repairs       
+- Maintenance and repairs       
 - Lease payments                
 - Depreciation
 - Car Washes
