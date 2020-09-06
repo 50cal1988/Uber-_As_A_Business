@@ -1,7 +1,7 @@
 # **Uber Driver as a Business**
 ## Jose Reyes
 ### Date: 08/22/2020
-[a link](Uber as a Business (1).pdf)
+[a link](https://github.com/50cal1988/Uber-_As_A_Business/blob/master/Uber%20as%20a%20Business%20(1).pdf)
   In the era of Information Technology, the phrase, &quot;to take an Uber,&quot; has replaced the phrase, &quot;to take a cab.&quot; Uber has undoubtedly displaced the taxi industry, but the company didn&#39;t do it alone. If every Uber Driver were to quit right now, the company would immediately collapse, or at least until autonomous vehicle technology came along. Here are some interesting facts from muchneeded.com: Uber has 75 million riders and 3 million drivers globally, Uber net annual revenue in Q2 2018 was $2.7 billion and an Uber Driver earns an average income of about $364/month.
 
   There is a lot of money going around so how big is the piece of the pie Drivers take home? If you are interested in becoming a full time Driver you will essentially become self-employed. My application, with the Driver&#39;s data input, will calculate net income and be as easily readable as if you were reading a paycheck stub from an employer. The calculation is carried out by evaluating all the Driver&#39;s expenses and the man hours behind the wheel.
